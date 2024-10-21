@@ -9,3 +9,5 @@ one more bug is fixed
 fourth bug fixed
 
 fifth bug fixed
+
+6th bug fixed

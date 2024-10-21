@@ -1,3 +1,6 @@
 this is file 3 with txt extension
 
 adding in third file 
+
+
+now adding another code in file 

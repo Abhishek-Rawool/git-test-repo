@@ -11,3 +11,5 @@ fourth bug fixed
 fifth bug fixed
 
 6th bug fixed and removed
+
+7th new bug discovered
